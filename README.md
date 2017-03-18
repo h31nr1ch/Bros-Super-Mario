@@ -10,9 +10,9 @@ Supe Mario Bros
 ### How do I get set up? ###
 
 * Lua 5.3.4
-* Windows 10 (sad)
+* Windows (sad)
 * Super Mario Bros
-* Emulator by bizhawk or https://github.com/h31nr1ch/BizHawk
+* BizHawk emulator by TASVideos or https://github.com/h31nr1ch/BizHawk
 
 ### Contribution ###
 
